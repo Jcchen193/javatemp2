@@ -1,6 +1,5 @@
 ﻿package main.java.com.java.example.demo.javaNio;
 
-
 import java.nio.CharBuffer;
 
 //填充或释放数据
